@@ -69,5 +69,9 @@ Kaynaklar
 Kaggle Heart Failure Prediction Dataset
 UCI Machine Learning Repository
 
+---
+
+KAGGLE notebook link : https://www.kaggle.com/code/dannyachami/heart-disease-prediction
+KAGGLE dataset link : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 
