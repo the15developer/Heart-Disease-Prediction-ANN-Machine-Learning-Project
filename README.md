@@ -56,14 +56,10 @@ Model, yapay sinir ağı (ANN) mimarisi ile oluşturulmuş ve çeşitli eğitim 
 
 2. **5-Fold Cross Validation (5 Katlı Çapraz Doğrulama)**
    - Veri seti 5 eşit parçaya ayrılarak model her bir fold üzerinde eğitilip test edilmiştir.
-   - Ortalama doğruluk ve kayıp sonuçları:
-     - **Mean Accuracy**: %85.29
-     - **Mean Loss**: %49.05
 
 3. **10-Fold Cross Validation (10 Katlı Çapraz Doğrulama)**
    - Benzer şekilde, veri seti 10 eşit parçaya bölünerek çapraz doğrulama yapılmıştır.
-   - Daha ayrıntılı analiz ve daha az varyans sağlamak amacıyla uygulanmıştır.
-
+  
 4. **%66 - %34 Eğitim ve Test Ayrımı**
    - Veri seti, %66 eğitim ve %34 test olarak rastgele bölünmüştür.
    - Rastgele bölünme işlemi 5 kez tekrar edilerek sonuçlar karşılaştırılmıştır.
@@ -72,8 +68,6 @@ Model, yapay sinir ağı (ANN) mimarisi ile oluşturulmuş ve çeşitli eğitim 
 Kaynaklar
 Kaggle Heart Failure Prediction Dataset
 UCI Machine Learning Repository
-Copy code
-
 
 
 
